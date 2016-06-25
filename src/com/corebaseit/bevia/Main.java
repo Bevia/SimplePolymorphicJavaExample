@@ -24,7 +24,7 @@ public class Main {
 
     }
 
-    //child class
+    //child class (Subclass)
     private static class EvenPrimeNumber extends NumberPrinter{
         public void printSomeNumber(){
             super.printSomeNumber(); //calling the method printSomeNumber from the parent (super) class!
